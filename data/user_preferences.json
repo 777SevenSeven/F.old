@@ -1,0 +1,54 @@
+[
+    {
+        "chat_id": "8564296709",
+        "name": "Teke",
+        "active": true,
+        "search_term": "Playstation 5",
+        "price_min": 50.0,
+        "price_max": 10000.0,
+        "target_city": "Ceara",
+        "strict_city": "Ceara",
+        "persona": "SNIPER",
+        "negative_keywords": [],
+        "sources": {
+            "olx": {
+                "active": true,
+                "url": "https://www.olx.com.br/games/consoles-de-video-game/estado-ce?ps=50&pe=10000&q=Playstation%205&sf=1"
+            },
+            "facebook": {
+                "active": true,
+                "url": "https://www.facebook.com/marketplace/106495499384127/search?minPrice=50&maxPrice=10000&sortBy=creation_time_descend&query=Playstation%205&exact=false"
+            },
+            "mercado_livre": {
+                "active": true,
+                "url": "https://lista.mercadolivre.com.br/games/consoles/sony/playstation-5/playstation-5_PriceRange_50BRL-10000BRL_NoIndex_True#applied_filter_id%3Dprice%26applied_filter_name%3DPre%C3%A7o%26applied_filter_order%3D9%26applied_value_id%3D50-10000%26applied_value_name%3DBRL50-BRL10000%26applied_value_order%3D4%26applied_value_results%3DUNKNOWN_RESULTS%26is_custom%3Dtrue"
+            }
+        }
+    },
+    {
+        "chat_id": "",
+        "name": "Andre",
+        "active": true,
+        "search_term": "Playstation 5",
+        "price_min": 50.0,
+        "price_max": 10000.0,
+        "target_city": "Cornelio Procopio",
+        "strict_city": "Cornelio Procopio",
+        "persona": "SNIPER",
+        "negative_keywords": [],
+        "sources": {
+            "olx": {
+                "active": true,
+                "url": "https://www.olx.com.br/brasil?q=Playstation+5&ps=50&pe=10000&sf=1"
+            },
+            "facebook": {
+                "active": true,
+                "url": "https://www.facebook.com/marketplace/search?query=Playstation+5&minPrice=50&maxPrice=10000"
+            },
+            "mercado_livre": {
+                "active": true,
+                "url": "https://lista.mercadolivre.com.br/Playstation+5_PriceRange_50BRL-10000BRL_NoIndex_True"
+            }
+        }
+    }
+]

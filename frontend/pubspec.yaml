@@ -1,0 +1,52 @@
+name: garimpobot
+description: A new Flutter project for GarimpoBot.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI components
+  cupertino_icons: ^1.0.8
+  
+  # State management
+  provider: ^6.1.1
+  get_it: ^7.6.7
+  
+  # HTTP client
+  http: ^1.2.0
+  dio: ^5.5.0
+  
+  # URL launcher (para abrir links externos)
+  url_launcher: ^6.2.4
+  
+  # Local storage (preparado para uso futuro)
+  shared_preferences: ^2.2.2
+  
+  # JSON serialization (preparado para uso futuro)
+  json_annotation: ^4.8.1
+  
+  # UI enhancements (preparado para uso futuro)
+  flutter_slidable: ^3.0.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Linting
+  flutter_lints: ^4.0.0
+  
+  # Code generation (para json_serializable)
+  build_runner: ^2.4.7
+  json_serializable: ^6.7.1
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mocks/products.json

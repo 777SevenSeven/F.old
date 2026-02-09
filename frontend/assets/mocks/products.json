@@ -1,0 +1,268 @@
+﻿{
+  "iphone": [
+    {
+      "title": "iPhone 12 64GB Preto",
+      "price": "R$ 1.899",
+      "marketplace": "FACEBOOK",
+      "badge": "Low price",
+      "imageUrl": "https://images.unsplash.com/photo-1603899123140-b7b6be6c4585?w=600",
+      "link": "https://facebook.com/marketplace/iphone12-64gb-preto"
+    },
+    {
+      "title": "iPhone 12 128GB Verde",
+      "price": "R$ 2.080",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Novo",
+      "imageUrl": "https://images.unsplash.com/photo-1606066906352-0282f9b56bce?w=600",
+      "link": "https://www.mercadolivre.com.br/iphone12-128gb-verde"
+    },
+    {
+      "title": "iPhone 12 Pro 128GB",
+      "price": "R$ 2.899",
+      "marketplace": "FACEBOOK",
+      "badge": "Oferta",
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600",
+      "link": "https://facebook.com/marketplace/iphone12-pro"
+    },
+    {
+      "title": "iPhone 12 256GB Branco",
+      "price": "R$ 2.650",
+      "marketplace": "OLX",
+      "badge": "Seminovo",
+      "imageUrl": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?w=600",
+      "link": "https://www.olx.com.br/iphone12-256"
+    },
+    {
+      "title": "iPhone 12 Mini 64GB",
+      "price": "R$ 1.550",
+      "marketplace": "OLX",
+      "badge": "Low price",
+      "imageUrl": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=600",
+      "link": "https://www.olx.com.br/iphone12-mini"
+    },
+    {
+      "title": "iPhone 12 128GB Roxo",
+      "price": "R$ 2.200",
+      "marketplace": "FACEBOOK",
+      "badge": "Top oferta",
+      "imageUrl": "https://images.unsplash.com/photo-1512499617640-c2f999098c01?w=600",
+      "link": "https://facebook.com/marketplace/iphone12-roxo"
+    },
+    {
+      "title": "iPhone 12 64GB Azul",
+      "price": "R$ 1.750",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Low price",
+      "imageUrl": "https://images.unsplash.com/photo-1475180098004-ca77a66827be?w=600",
+      "link": "https://www.mercadolivre.com.br/iphone12-azul"
+    },
+    {
+      "title": "iPhone 12 128GB Branco",
+      "price": "R$ 2.150",
+      "marketplace": "FACEBOOK",
+      "badge": "Lacrado",
+      "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600",
+      "link": "https://facebook.com/marketplace/iphone12-branco"
+    }
+  ],
+  "macbook": [
+    {
+      "title": "MacBook Air M1 256GB",
+      "price": "R$ 4.200",
+      "marketplace": "OLX",
+      "badge": "Seminovo",
+      "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?w=600",
+      "link": "https://www.olx.com.br/macbook-air-m1"
+    },
+    {
+      "title": "MacBook Pro 14",
+      "price": "R$ 9.800",
+      "marketplace": "FACEBOOK",
+      "badge": "Lacrado",
+      "imageUrl": "https://images.unsplash.com/photo-1517331156700-3c241d2b4d83?w=600",
+      "link": "https://facebook.com/marketplace/macbook-pro-14"
+    },
+    {
+      "title": "MacBook Air M2 512GB",
+      "price": "R$ 6.300",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Premium",
+      "imageUrl": "https://images.unsplash.com/photo-1517445312885-5bc20087f9e2?w=600",
+      "link": "https://www.mercadolivre.com.br/macbook-air-m2"
+    },
+    {
+      "title": "MacBook Pro 13 i5",
+      "price": "R$ 3.900",
+      "marketplace": "OLX",
+      "badge": "Low price",
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600",
+      "link": "https://www.olx.com.br/macbook-pro-13"
+    },
+    {
+      "title": "MacBook Air 2019",
+      "price": "R$ 3.100",
+      "marketplace": "FACEBOOK",
+      "badge": "Bom estado",
+      "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600",
+      "link": "https://facebook.com/marketplace/macbook-air-2019"
+    },
+    {
+      "title": "MacBook Pro 16 i9",
+      "price": "R$ 8.700",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Top oferta",
+      "imageUrl": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?w=600",
+      "link": "https://www.mercadolivre.com.br/macbook-pro-16"
+    },
+    {
+      "title": "MacBook Air M2 8GB",
+      "price": "R$ 5.800",
+      "marketplace": "FACEBOOK",
+      "badge": "Novo",
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+      "link": "https://facebook.com/marketplace/macbook-air-m2"
+    },
+    {
+      "title": "MacBook Pro 15 Retina",
+      "price": "R$ 4.500",
+      "marketplace": "OLX",
+      "badge": "Seminovo",
+      "imageUrl": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?w=600",
+      "link": "https://www.olx.com.br/macbook-pro-15"
+    }
+  ],
+  "gameboy": [
+    {
+      "title": "Game Boy Color Roxo",
+      "price": "R$ 550",
+      "marketplace": "FACEBOOK",
+      "badge": "Retro",
+      "imageUrl": "https://images.unsplash.com/photo-1613940109083-6e139e12e7d8?w=600",
+      "link": "https://facebook.com/marketplace/gameboy-color"
+    },
+    {
+      "title": "Game Boy Advance SP",
+      "price": "R$ 720",
+      "marketplace": "OLX",
+      "badge": "Completo",
+      "imageUrl": "https://images.unsplash.com/photo-1526045478516-99145907023c?w=600",
+      "link": "https://www.olx.com.br/gameboy-advance-sp"
+    },
+    {
+      "title": "Game Boy Pocket",
+      "price": "R$ 480",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Colecionador",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+      "link": "https://www.mercadolivre.com.br/gameboy-pocket"
+    },
+    {
+      "title": "Game Boy Advance Azul",
+      "price": "R$ 630",
+      "marketplace": "FACEBOOK",
+      "badge": "Raro",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600",
+      "link": "https://facebook.com/marketplace/gameboy-advance"
+    },
+    {
+      "title": "Game Boy Classic",
+      "price": "R$ 690",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Great condition",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600",
+      "link": "https://www.mercadolivre.com.br/gameboy-classic"
+    },
+    {
+      "title": "Game Boy Micro",
+      "price": "R$ 780",
+      "marketplace": "OLX",
+      "badge": "Raro",
+      "imageUrl": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?w=600",
+      "link": "https://www.olx.com.br/gameboy-micro"
+    },
+    {
+      "title": "Game Boy Color Verde",
+      "price": "R$ 520",
+      "marketplace": "FACEBOOK",
+      "badge": "Retro",
+      "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600",
+      "link": "https://facebook.com/marketplace/gameboy-color-verde"
+    },
+    {
+      "title": "Game Boy Advance Rosa",
+      "price": "R$ 610",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Colecionador",
+      "imageUrl": "https://images.unsplash.com/photo-1526045612212-70caf35c14df?w=600",
+      "link": "https://www.mercadolivre.com.br/gameboy-advance-rosa"
+    }
+  ],
+  "default": [
+    {
+      "title": "Great used item",
+      "price": "R$ 299",
+      "marketplace": "FACEBOOK",
+      "badge": "Low price",
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=600",
+      "link": "https://facebook.com/marketplace/produto-usado"
+    },
+    {
+      "title": "Oferta destaque",
+      "price": "R$ 450",
+      "marketplace": "OLX",
+      "badge": "Oferta",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600",
+      "link": "https://www.olx.com.br/oferta-destaque"
+    },
+    {
+      "title": "Collectible item",
+      "price": "R$ 199",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Colecionador",
+      "imageUrl": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=600",
+      "link": "https://www.mercadolivre.com.br/item-colecionavel"
+    },
+    {
+      "title": "Produto em destaque",
+      "price": "R$ 550",
+      "marketplace": "FACEBOOK",
+      "badge": "Top oferta",
+      "imageUrl": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=600",
+      "link": "https://facebook.com/marketplace/produto-destaque"
+    },
+    {
+      "title": "Achado especial",
+      "price": "R$ 380",
+      "marketplace": "OLX",
+      "badge": "Novo",
+      "imageUrl": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600",
+      "link": "https://www.olx.com.br/achado-especial"
+    },
+    {
+      "title": "Flash deal",
+      "price": "R$ 620",
+      "marketplace": "MERCADOLIVRE",
+      "badge": "Oferta",
+      "imageUrl": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?w=600",
+      "link": "https://www.mercadolivre.com.br/oferta-relampago"
+    },
+    {
+      "title": "Produto verificado",
+      "price": "R$ 150",
+      "marketplace": "FACEBOOK",
+      "badge": "Garantido",
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+      "link": "https://facebook.com/marketplace/produto-verificado"
+    },
+    {
+      "title": "Oferta confirmada",
+      "price": "R$ 490",
+      "marketplace": "OLX",
+      "badge": "Seminovo",
+      "imageUrl": "https://images.unsplash.com/photo-1504593811423-6dd665756598?w=600",
+      "link": "https://www.olx.com.br/oferta-confirmada"
+    }
+  ]
+}
+
+
