@@ -6,7 +6,7 @@ FUNCTION:
 Parses natural language input from users into structured JSON queries using 
 the Gemini LLM, driving the parameters of the scraping engine.
 
-[FINANCIAL & COMPLIANCE ALIGNMENT - IASMIN]
+[FINANCIAL & COMPLIANCE ALIGNMENT - ANDRE]
 OPEX Control (Q1): DOM scraping incurs high server burn rates (RAM/CPU).
 Monetization Decision: We abandoned feature-based pricing. Monetization is now 
 strictly tied to SERVER EFFICIENCY. 
@@ -15,7 +15,7 @@ strictly tied to SERVER EFFICIENCY.
 - Boost Mode: Micro-transactions for users with urgent needs (legacy "Sniper" 
   behavior) who can't afford monthly plans but need temporary high-speed access.
 
-[PRODUCT & TECH LEAD - ANDRE]
+[PRODUCT & TECH LEAD - ANDRE & GABRIEL]
 Feature Scope (MVP): Dropped the legacy "Persona" classification logic. It added 
 useless token overhead and latency. 
 Refactoring: The AI prompt was hyper-compressed to extract ONLY Product, Price, 
