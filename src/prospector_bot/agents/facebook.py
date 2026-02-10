@@ -6,13 +6,13 @@ FUNCTION:
 Acts as a translation layer (Driver) between the unstructured HTML of the site
 and the standardized JSON format of GarimpoBot.
 
-[LEGAL & FINANCE ALIGNMENT - IASMIN]
+[LEGAL & FINANCE ALIGNMENT - ANDRE]
 Risk Mitigation (Q1): Operating in 'Stateless' mode (No login/session). 
 Decision: Avoids LGPD/GDPR liabilities regarding user data storage and eliminates 
 the high OPEX (Operational Expenditure) of maintaining residential proxies 
 needed to bypass Facebook's aggressive anti-scraping blocks for this MVP.
 
-[PRODUCT & TECH LEAD - ANDRE]
+[PRODUCT & TECH LEAD - GABRIEL]
 Architecture: DOM-based scraping (Headless Browser) is highly memory-intensive.
 RAM Saver: Enforced a strict Early-Stop loop (SCRAPE_LIMIT = 5) to prevent 
 the browser from causing OOM (Out-of-Memory) crashes on our 1GB MVP server.

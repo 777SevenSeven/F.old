@@ -6,14 +6,14 @@ FUNCTION:
 Acts as a translation layer (Driver) between the Craigslist public RSS Feeds
 and the standardized JSON format of GarimpoBot.
 
-[LEGAL & COMPLIANCE ALIGNMENT - IASMIN]
+[LEGAL & COMPLIANCE ALIGNMENT - ANDRE]
 Risk Mitigation (Q1): Craigslist explicitly restricts unauthorized web scraping.
 Decision: To ensure 100% legal compliance during the MVP phase, this module 
 operates STRICTLY via their public, authorized RSS XML feeds. 
 It operates in 'Stateless' mode: No logins, no interaction, and zero data 
 liability to prevent IP bans and comply with data protection regulations.
 
-[PRODUCT & TECH LEAD - ANDR]
+[PRODUCT & TECH LEAD - GABRIEL]
 Performance & Strategy: RSS feeds are inherently lightweight (Low RAM footprint),
 ideal for our 1GB server constraint. 
 Business Logic: Implemented a strict 'City Target' filter to automatically 

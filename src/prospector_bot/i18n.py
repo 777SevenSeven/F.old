@@ -14,7 +14,7 @@ was refactored into this dynamic i18n architecture. Hardcoded strings were
 eliminated, allowing immediate deployment across North America and Europe with 
 zero changes to the AI Core.
 
-[LEGAL & COMPLIANCE - IASMIN]
+[LEGAL & COMPLIANCE - ANDRE]
 Cultural Formatting: Ensures currency symbols, price formatting, and UI/UX flows 
 respect regional data presentation laws.
 ================================================================================

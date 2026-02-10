@@ -7,7 +7,7 @@ Handles state persistence, schema normalization, and user preference storage.
 Manages the transition from the legacy (PT-BR) prototype to the new 
 internationalized (i18n) architecture.
 
-[BUSINESS & FINANCE ALIGNMENT - IASMIN & ANDRE]
+[BUSINESS & FINANCE ALIGNMENT - ANDRE]
 Decision (Q1): Zero-cost infrastructure for the MVP validation phase. 
 By utilizing local JSON storage (pathlib) instead of cloud databases, we keep 
 our "burn rate" (operational cost) at zero while validating the "Sniper" 

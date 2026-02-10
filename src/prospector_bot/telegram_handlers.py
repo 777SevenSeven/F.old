@@ -13,7 +13,7 @@ Roadmap Q2: This is strictly a traction channel. The long-term interface is the
 fully responsive Web Application, where PRO Tier monetization and advanced 
 dashboards are located.
 
-[LEGAL & COMPLIANCE - IASMIN]
+[LEGAL & COMPLIANCE - ANDRE]
 Data Policy: No sensitive user data or credentials must be stored in this layer. 
 The handler strictly relays chat_ids and parameters to the AI Core, adhering 
 to minimum-data-retention principles to mitigate data-breach risks during 

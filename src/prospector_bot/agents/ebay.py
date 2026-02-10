@@ -6,14 +6,14 @@ FUNCTION:
 Acts as a translation layer (Driver) between the eBay Finding API
 and the standardized JSON format of GarimpoBot.
 
-[BUSINESS & COMPLIANCE ALIGNMENT - IASMIN]
+[BUSINESS & COMPLIANCE ALIGNMENT - ANDRE]
 Risk Mitigation (Q1): Direct web scraping on eBay carries a high risk of IP 
 blacklisting and violates their aggressive anti-scraping TOS. 
 Decision: This module strictly utilizes the official eBay Developer API. 
 It operates statelessly (no user credentials stored), and respects native API 
 Rate Limiting to ensure 100% legal compliance for our MVP.
 
-[PRODUCT & TECH LEAD - ANDR]
+[PRODUCT & TECH LEAD - GABRIEL]
 Architecture: Currently utilizing the legacy eBay Finding API v1 for speed of 
 deployment. 
 RAM Saver: Implemented a strict memory ceiling (SCRAPE_LIMIT = 5) per query 

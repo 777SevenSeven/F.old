@@ -6,14 +6,14 @@ FUNCTION:
 Orchestrates the main asynchronous scraping loop, managing agent execution, 
 rate limiting, and the Headless Browser (Playwright) lifecycle.
 
-[BUSINESS & COMPLIANCE ALIGNMENT - IASMIN]
+[BUSINESS & COMPLIANCE ALIGNMENT - ANDRE]
 Platform Safety (Q1): Aggressive scraping triggers IP bans and violates the TOS 
 of major marketplaces. 
 Decision: A central Rate Limiter (`settings.interval_minutes`) was strictly 
 enforced. By creating a polite pause between cycles, we stay under the radar 
 of anti-bot systems, ensuring zero downtime for the MVP validation.
 
-[PRODUCT & TECH LEAD - ANDR]
+[PRODUCT & TECH LEAD - GABRIEL]
 Infrastructure Cost (Q1): The MVP is hosted on an ultra-low-budget 1GB RAM VPS.
 Architecture Solution: Playwright (Chromium) causes severe memory leaks if left 
 open indefinitely. This engine is designed to explicitly launch and DESTROY 
